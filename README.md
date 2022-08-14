@@ -4,6 +4,8 @@
 The code will be unlikely to train the exact same model. Hence, it has been saved to the following google drive link:
 https://drive.google.com/drive/folders/1pYDICEycH1HJ9Gt0k-631kLjDyp7afkM?usp=sharing
 
+To reproduce the results, the model can be loaded to make the predictions.
+
 ## Github
 The code can also be viewed via Github:
 https://github.com/becauselol/TAE2022Team17Submission
