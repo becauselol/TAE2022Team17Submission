@@ -1,9 +1,9 @@
 # 40.016 The Analytics Edge Team 17 Submission
 
 ## Group Members
-Yong Zhe Rui Gabriel 1005154 \n
-Lim Azib Bin Adam 1005209 \n
-Ong Kai Xin Chloe 1005517 \n
+Yong Zhe Rui Gabriel 1005154 <br>
+Lim Azib Bin Adam 1005209 <br>
+Ong Kai Xin Chloe 1005517 <br>
 
 ## Model
 The code will be unlikely to train the exact same model. Hence, it has been saved to the following google drive link:
